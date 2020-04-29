@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946dffa1fbb506a7ecb267
+type: experiment
+name: Digital Proofing Type Selector
+flag: DigitalProofingTypeSelector
+conditions:
+  - group:
+      name: Float Factor  28929
+    value: true
+value: false
