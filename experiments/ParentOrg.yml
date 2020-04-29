@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946f06d1cc675f363ca353
+type: experiment
+name: Parent Org
+flag: ParentOrg
+conditions:
+  - group:
+      name: SMSC
+    value: true
+value: false
