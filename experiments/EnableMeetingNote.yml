@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946e63a1fbb55960ecb3b8
+type: experiment
+name: Enable Meeting Note
+flag: EnableMeetingNote
+value: false
