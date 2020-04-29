@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946e1acd4385c1836aad14
+type: experiment
+name: Enable Api O Auth Application
+flag: EnableApiOAuthApplication
+value: false
