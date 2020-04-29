@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946e9596fc8070bcb8e3f5
+type: experiment
+name: Enable Share Point Collective Access
+flag: EnableSharePointCollectiveAccess
+conditions:
+  - group:
+      name: Clarizen Int
+    value: true
+value: false
