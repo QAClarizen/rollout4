@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e9972680a536b6194215aa2
+type: experiment
+name: 0d1_ Capacity Plan What If
+flag: 0d1_CapacityPlanWhatIf
+conditions:
+  - group:
+      name: 0d1_QAUA
+    value: false
+value: false
