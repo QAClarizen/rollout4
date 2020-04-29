@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946ec2a68ca5341bccccaf
+type: experiment
+name: Formula Mass Object Updater Extended Profiling
+flag: FormulaMassObjectUpdaterExtendedProfiling
+conditions:
+  - group:
+      name: QAUA
+    value: true
+value: false
