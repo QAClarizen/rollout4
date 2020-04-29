@@ -1,0 +1,7 @@
+type: target-group
+name: Testing Environment
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '177872'
