@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946df9a68ca59227cccac2
+type: experiment
+name: Compare Resource Management Results
+flag: CompareResourceManagementResults
+value: false
