@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946eaea1fbb52b55ecb443
+type: experiment
+name: Fix Draft On Web Mail
+flag: FixDraftOnWebMail
+value: true
