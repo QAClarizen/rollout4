@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946dfdd1cc675c813c9fb3
+type: experiment
+name: Converting Custom Field At Internal Level
+flag: ConvertingCustomFieldAtInternalLevel
+conditions:
+  - group:
+      name: OneLogin19278
+    value: true
+value: false
