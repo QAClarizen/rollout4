@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946f3bcd438526056ab0de
+type: experiment
+name: Show Eagle O Auth App In Extensions
+flag: ShowEagleOAuthAppInExtensions
+conditions:
+  - group:
+      name: Einat
+    value: true
+value: false
