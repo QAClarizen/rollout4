@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946e37a1fbb50e5cecb351
+type: experiment
+name: Enable CASB Integration
+flag: EnableCASBIntegration
+conditions:
+  - group:
+      name: SMSC
+    value: true
+value: false
