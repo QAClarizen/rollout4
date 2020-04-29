@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946e42a68ca5567acccb16
+type: experiment
+name: Enable Email Pending
+flag: EnableEmailPending
+value: false
