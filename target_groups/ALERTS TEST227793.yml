@@ -1,0 +1,7 @@
+type: target-group
+name: ALERTS TEST227793
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '227793'
