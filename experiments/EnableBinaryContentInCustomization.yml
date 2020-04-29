@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946e337798c8ff7db6f0e9
+type: experiment
+name: Enable Binary Content In Customization
+flag: EnableBinaryContentInCustomization
+conditions:
+  - group:
+      name: Like a Version
+    value: true
+value: false
