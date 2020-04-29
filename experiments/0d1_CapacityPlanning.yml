@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e9972754e91f43f93a2939e
+type: experiment
+name: 0d1_ Capacity Planning
+flag: 0d1_CapacityPlanning
+conditions:
+  - group:
+      name: 0d1_Test Downgrade  103636
+    value: true
+value: true
