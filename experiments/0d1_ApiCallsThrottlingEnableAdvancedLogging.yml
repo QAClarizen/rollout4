@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e9971779c3816a21d69b9bb
+type: experiment
+name: 0d1_ Api Calls Throttling Enable Advanced Logging
+flag: 0d1_ApiCallsThrottlingEnableAdvancedLogging
+conditions:
+  - group:
+      name: 0d1_SMSC
+    value: true
+value: false
