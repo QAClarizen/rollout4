@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946f36a68ca5c1d7ccce54
+type: experiment
+name: Send Hlpc Portfolio Node To Large Rabbit Partition
+flag: SendHlpcPortfolioNodeToLargeRabbitPartition
+value: false
