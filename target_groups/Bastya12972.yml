@@ -1,0 +1,7 @@
+type: target-group
+name: Bastya12972
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '12972'
