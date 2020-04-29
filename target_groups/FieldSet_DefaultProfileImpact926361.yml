@@ -1,0 +1,7 @@
+type: target-group
+name: FieldSet_DefaultProfileImpact926361
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '159676'
