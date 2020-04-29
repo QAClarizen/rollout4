@@ -1,0 +1,7 @@
+type: target-group
+name: upgradedToBasic
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '19878'
