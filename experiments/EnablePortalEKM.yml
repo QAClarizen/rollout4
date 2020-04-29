@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946e83d1cc677cc53ca184
+type: experiment
+name: Enable Portal EKM
+flag: EnablePortalEKM
+conditions:
+  - group:
+      name: QAUA
+    value: true
+value: true
