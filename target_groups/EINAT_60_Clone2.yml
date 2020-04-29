@@ -1,0 +1,7 @@
+type: target-group
+name: EINAT_60_Clone2
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '769169'
