@@ -1,0 +1,7 @@
+type: target-group
+name: 0d1_ShaniOrg
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '449898'
