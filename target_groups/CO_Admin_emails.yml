@@ -1,0 +1,7 @@
+type: target-group
+name: CO_Admin_emails
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '546904'
