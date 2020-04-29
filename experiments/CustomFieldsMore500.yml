@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946e02cd4385eb986aacd1
+type: experiment
+name: Custom Fields More500
+flag: CustomFieldsMore500
+conditions:
+  - group:
+      name: Lohika Test Anton 23
+    value: true
+value: false
