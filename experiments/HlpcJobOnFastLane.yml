@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946ebee479371c9d48472b
+type: experiment
+name: Hlpc Job On Fast Lane
+flag: HlpcJobOnFastLane
+conditions:
+  - group:
+      name: SMSC
+    value: true
+value: false
