@@ -1,0 +1,7 @@
+type: target-group
+name: Add_Edit_Dynamic_Layout333048
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '795749'
