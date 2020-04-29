@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946e517798c841abb6f109
+type: experiment
+name: Enable Grid Row Number Column
+flag: EnableGridRowNumberColumn
+conditions:
+  - group:
+      name: Natalia
+    value: true
+value: false
