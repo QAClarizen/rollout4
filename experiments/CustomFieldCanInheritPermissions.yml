@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946df2d1cc6771583c9fa9
+type: experiment
+name: Custom Field Can Inherit Permissions
+flag: CustomFieldCanInheritPermissions
+conditions:
+  - group:
+      name: upgradedToBasic
+    value: true
+value: false
