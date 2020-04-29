@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946eced1cc67cc083ca284
+type: experiment
+name: Hlpc Node List Info Kpi Log
+flag: HlpcNodeListInfoKpiLog
+conditions:
+  - group:
+      name: SMSC
+    value: false
+value: false
