@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946f28d1cc6787bb3ca392
+type: experiment
+name: Resource Load Editable Grid
+flag: ResourceLoadEditableGrid
+value: true
