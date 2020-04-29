@@ -1,0 +1,7 @@
+type: target-group
+name: Meidan Inc
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '57739'
