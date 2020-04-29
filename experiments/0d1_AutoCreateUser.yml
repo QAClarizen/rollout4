@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e99719fb0bdc88002ec89e1
+type: experiment
+name: 0d1_ Auto Create User
+flag: 0d1_AutoCreateUser
+conditions:
+  - group:
+      name: 0d1_Einat
+    value: true
+value: false
