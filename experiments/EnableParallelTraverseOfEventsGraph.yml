@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946e757798c816f8b6f167
+type: experiment
+name: Enable Parallel Traverse Of Events Graph
+flag: EnableParallelTraverseOfEventsGraph
+conditions:
+  - group:
+      name: vkorg
+    value: true
+value: false
