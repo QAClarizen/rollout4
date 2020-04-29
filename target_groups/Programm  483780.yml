@@ -1,0 +1,7 @@
+type: target-group
+name: Programm  483780
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '483780'
