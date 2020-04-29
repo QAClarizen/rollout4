@@ -1,0 +1,7 @@
+type: target-group
+name: newru
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '635095'
