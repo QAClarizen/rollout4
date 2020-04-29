@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946f3e7798c849e8b6f40c
+type: experiment
+name: Show Knowmore Account ID In Settings
+flag: ShowKnowmoreAccountIDInSettings
+value: false
