@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946e07d1cc67a1083c9fd0
+type: experiment
+name: Custom Objects
+flag: CustomObjects
+conditions:
+  - group:
+      name: Test Downgrade  103636
+    value: true
+value: true
