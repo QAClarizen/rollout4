@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946e7bcd4385f6146aaeac
+type: experiment
+name: Enable Resource Load Auto Save Suspension
+flag: EnableResourceLoadAutoSaveSuspension
+conditions:
+  - group:
+      name: _clone2
+    value: true
+value: false
