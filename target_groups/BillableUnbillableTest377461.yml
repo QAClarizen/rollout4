@@ -1,0 +1,7 @@
+type: target-group
+name: BillableUnbillableTest377461
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '805785'
