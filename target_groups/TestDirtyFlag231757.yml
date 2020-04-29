@@ -1,0 +1,7 @@
+type: target-group
+name: TestDirtyFlag231757
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '780259'
