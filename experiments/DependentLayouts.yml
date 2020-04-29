@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946e0bd1cc6784d63c9fda
+type: experiment
+name: Dependent Layouts
+flag: DependentLayouts
+conditions:
+  - group:
+      name: Einat
+    value: true
+value: true
