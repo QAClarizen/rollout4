@@ -1,0 +1,7 @@
+type: target-group
+name: RU final
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '341603'
