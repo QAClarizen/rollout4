@@ -1,0 +1,7 @@
+type: target-group
+name: loadlr
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '464558'
