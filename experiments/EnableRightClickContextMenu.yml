@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946e90cd43853a316aaece
+type: experiment
+name: Enable Right Click Context Menu
+flag: EnableRightClickContextMenu
+conditions:
+  - group:
+      name: Natalia
+    value: true
+value: false
