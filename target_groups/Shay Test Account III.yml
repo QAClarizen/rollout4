@@ -1,0 +1,7 @@
+type: target-group
+name: Shay Test Account III
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '53011'
