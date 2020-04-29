@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946e849c6869a2064902dc
+type: experiment
+name: Enable Share Point File Upload Via Customization
+flag: EnableSharePointFileUploadViaCustomization
+value: false
