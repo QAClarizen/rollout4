@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946f18a68ca506b7ccce3a
+type: experiment
+name: Report ACL Join Optimization
+flag: ReportACLJoinOptimization
+conditions:
+  - group:
+      name: loadlr
+    value: true
+value: false
