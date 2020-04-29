@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946e2396fc806a4db8e1f2
+type: experiment
+name: Enable Cache Sync Merge Before Publish
+flag: EnableCacheSyncMergeBeforePublish
+conditions:
+  - group:
+      name: vkorg
+    value: true
+value: false
