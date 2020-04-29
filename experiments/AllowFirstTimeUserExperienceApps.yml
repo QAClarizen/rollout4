@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946dc89c6869f55c490127
+type: experiment
+name: Allow First Time User Experience Apps
+flag: AllowFirstTimeUserExperienceApps
+conditions:
+  - group:
+      name: Einat
+    value: true
+value: true
