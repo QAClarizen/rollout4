@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946de1e47937f3cd484445
+type: experiment
+name: Calculate FP Percent Fields By Agg Values
+flag: CalculateFPPercentFieldsByAggValues
+conditions:
+  - group:
+      name: testru Fiscal Calendar  March1
+    value: true
+value: false
