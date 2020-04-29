@@ -1,0 +1,7 @@
+type: target-group
+name: QAA
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '48123'
