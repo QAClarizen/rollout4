@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946f0aa68ca5fe29cccdca
+type: experiment
+name: Postpone Queue Items On Api Bulk Request
+flag: PostponeQueueItemsOnApiBulkRequest
+conditions:
+  - group:
+      name: SMSC
+    value: true
+value: false
