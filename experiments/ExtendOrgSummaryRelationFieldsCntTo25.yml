@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946eb87798c87339b6f1f7
+type: experiment
+name: Extend Org Summary Relation Fields Cnt To25
+flag: ExtendOrgSummaryRelationFieldsCntTo25
+conditions:
+  - group:
+      name: Float Factor  28929
+    value: true
+value: false
