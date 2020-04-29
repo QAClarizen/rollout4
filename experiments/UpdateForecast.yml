@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946f5ccd4385c61f6ab13a
+type: experiment
+name: Update Forecast
+flag: UpdateForecast
+value: false
