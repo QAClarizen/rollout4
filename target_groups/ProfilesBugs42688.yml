@@ -1,0 +1,7 @@
+type: target-group
+name: ProfilesBugs42688
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '180382'
