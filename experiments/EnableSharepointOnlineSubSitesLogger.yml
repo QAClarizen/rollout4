@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946e88a68ca56704cccbde
+type: experiment
+name: Enable Sharepoint Online Sub Sites Logger
+flag: EnableSharepointOnlineSubSitesLogger
+value: false
