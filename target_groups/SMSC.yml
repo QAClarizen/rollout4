@@ -1,0 +1,7 @@
+type: target-group
+name: SMSC
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '24359'
