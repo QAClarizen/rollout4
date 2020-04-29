@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946f3be4793758bc4848cc
+type: experiment
+name: Schedule Slide Publish
+flag: ScheduleSlidePublish
+conditions:
+  - group:
+      name: Einat
+    value: true
+value: false
