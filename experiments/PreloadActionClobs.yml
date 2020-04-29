@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946f06cd438512366ab010
+type: experiment
+name: Preload Action Clobs
+flag: PreloadActionClobs
+conditions:
+  - group:
+      name: SMSC
+    value: true
+value: false
