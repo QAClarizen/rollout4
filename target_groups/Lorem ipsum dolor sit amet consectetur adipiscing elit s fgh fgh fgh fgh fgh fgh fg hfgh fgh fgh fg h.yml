@@ -1,0 +1,9 @@
+type: target-group
+name: >-
+  Lorem ipsum dolor sit amet consectetur adipiscing elit s fgh fgh fgh fgh fgh
+  fgh fg hfgh fgh fgh fg h
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '770032'
