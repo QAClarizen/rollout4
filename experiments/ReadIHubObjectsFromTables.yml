@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946f137798c8c5cab6f34a
+type: experiment
+name: Read I Hub Objects From Tables
+flag: ReadIHubObjectsFromTables
+conditions:
+  - group:
+      name: WHF155Org_
+    value: true
+value: false
