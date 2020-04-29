@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e99720a7ebe1a0eafe31d1f
+type: experiment
+name: 0d1_ Business Rules Actions Cache Logging
+flag: 0d1_BusinessRulesActionsCacheLogging
+conditions:
+  - group:
+      name: 0d1_ju_julialiskot
+    value: true
+value: false
