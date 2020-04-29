@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e9722ba089c292c2d709fc3
+type: experiment
+name: Extended Human Resources
+flag: ExtendedHumanResources
+conditions:
+  - group:
+      name: Vadim QA Cloning
+    value: true
+value: false
