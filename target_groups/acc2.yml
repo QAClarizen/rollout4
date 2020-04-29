@@ -1,0 +1,7 @@
+type: target-group
+name: acc2
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '302231'
