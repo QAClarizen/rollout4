@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946e7fcd4385b5606aaeb6
+type: experiment
+name: Enable Performance Monitor Reporting
+flag: EnablePerformanceMonitorReporting
+conditions:
+  - group:
+      name: APIReleaseManagement
+    value: true
+value: false
