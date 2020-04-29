@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946ef4e47937283348484a
+type: experiment
+name: Opt Updates Not Impacted Calc
+flag: OptUpdatesNotImpactedCalc
+conditions:
+  - group:
+      name: testrate2
+    value: true
+value: false
