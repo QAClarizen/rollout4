@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946df196fc803e53b8e0f0
+type: experiment
+name: Calculate WI Fin Planning Fields
+flag: CalculateWIFinPlanningFields
+conditions:
+  - group:
+      name: Float Factor  28929
+    value: true
+value: false
