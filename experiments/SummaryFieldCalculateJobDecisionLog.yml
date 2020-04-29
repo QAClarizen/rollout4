@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946f4dd1cc67bf213ca40d
+type: experiment
+name: Summary Field Calculate Job Decision Log
+flag: SummaryFieldCalculateJobDecisionLog
+conditions:
+  - group:
+      name: QAUA
+    value: true
+value: false
