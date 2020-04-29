@@ -1,0 +1,7 @@
+type: target-group
+name: RL_QuickFilters_Availability_Month
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '771210'
