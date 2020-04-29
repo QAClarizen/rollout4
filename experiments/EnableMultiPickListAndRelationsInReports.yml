@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946e679c686902ad49029b
+type: experiment
+name: Enable Multi Pick List And Relations In Reports
+flag: EnableMultiPickListAndRelationsInReports
+value: true
