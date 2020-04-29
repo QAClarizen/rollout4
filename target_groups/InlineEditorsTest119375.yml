@@ -1,0 +1,7 @@
+type: target-group
+name: InlineEditorsTest119375
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '247268'
