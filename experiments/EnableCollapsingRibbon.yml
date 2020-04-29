@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946e29cd43857d4b6aad22
+type: experiment
+name: Enable Collapsing Ribbon
+flag: EnableCollapsingRibbon
+value: false
