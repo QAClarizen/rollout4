@@ -1,0 +1,7 @@
+type: target-group
+name: STOP Saturday and Sunday 8h  OrgID13315
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '13315'
