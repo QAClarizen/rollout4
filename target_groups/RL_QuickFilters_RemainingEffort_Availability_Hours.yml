@@ -1,0 +1,7 @@
+type: target-group
+name: RL_QuickFilters_RemainingEffort_Availability_Hours
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '771276'
