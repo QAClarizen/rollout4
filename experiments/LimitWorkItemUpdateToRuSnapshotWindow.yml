@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946ed9a68ca549ffccccce
+type: experiment
+name: Limit Work Item Update To Ru Snapshot Window
+flag: LimitWorkItemUpdateToRuSnapshotWindow
+conditions:
+  - group:
+      name: testfrozen  Fiscal Year Start 1March
+    value: true
+value: true
