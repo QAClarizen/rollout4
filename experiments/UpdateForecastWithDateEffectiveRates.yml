@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946f679c68698e804905de
+type: experiment
+name: Update Forecast With Date Effective Rates
+flag: UpdateForecastWithDateEffectiveRates
+conditions:
+  - group:
+      name: testru Fiscal Calendar  March1
+    value: true
+value: false
