@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946f21e47937a2854848b4
+type: experiment
+name: Resource Load Col Management
+flag: ResourceLoadColManagement
+value: true
