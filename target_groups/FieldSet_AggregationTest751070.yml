@@ -1,0 +1,7 @@
+type: target-group
+name: FieldSet_AggregationTest751070
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '159612'
