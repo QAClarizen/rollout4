@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946e2996fc80bb01b8e1f9
+type: experiment
+name: Enable Auto Reply Filter
+flag: EnableAutoReplyFilter
+value: false
