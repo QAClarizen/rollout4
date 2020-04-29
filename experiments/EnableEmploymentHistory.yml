@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946e2fa68ca56ebacccb01
+type: experiment
+name: Enable Employment History
+flag: EnableEmploymentHistory
+conditions:
+  - group:
+      name: testru Fiscal Calendar  March1
+    value: true
+value: true
