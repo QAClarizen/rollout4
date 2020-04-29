@@ -1,0 +1,7 @@
+type: target-group
+name: Lior20140730 140008
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '87767'
