@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946f6fd1cc676c403ca46d
+type: experiment
+name: Use New Version Of Resource Management
+flag: UseNewVersionOfResourceManagement
+conditions:
+  - group:
+      name: Like a Version
+    value: true
+value: false
