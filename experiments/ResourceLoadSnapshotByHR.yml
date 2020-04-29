@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946f2d9c6869ace349051a
+type: experiment
+name: Resource Load Snapshot By HR
+flag: ResourceLoadSnapshotByHR
+conditions:
+  - group:
+      name: testru Fiscal Calendar  March1
+    value: true
+value: true
