@@ -1,0 +1,7 @@
+type: target-group
+name: FieldSet_CreateDefaultFieldsOnlyProfile642172
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '779846'
