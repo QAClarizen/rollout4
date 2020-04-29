@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946e93a68ca5e4f1cccc6a
+type: experiment
+name: Enable Sub Flow Rules Processing Optimizations
+flag: EnableSubFlowRulesProcessingOptimizations
+conditions:
+  - group:
+      name: Natalia
+    value: true
+value: false
