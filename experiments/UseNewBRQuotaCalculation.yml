@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946f64cd43854f8a6ab147
+type: experiment
+name: Use New BR Quota Calculation
+flag: UseNewBRQuotaCalculation
+conditions:
+  - group:
+      name: br check 2
+    value: true
+value: false
