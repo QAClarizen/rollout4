@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e946e4ecd43856f7b6aae14
+type: experiment
+name: Enable Multi Organization Licences
+flag: EnableMultiOrganizationLicences
+conditions:
+  - group:
+      name: Programm  483780
+    value: true
+value: false
