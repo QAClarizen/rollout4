@@ -1,0 +1,7 @@
+type: target-group
+name: rrrrr
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '302852'
