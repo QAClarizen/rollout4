@@ -1,0 +1,7 @@
+type: target-group
+name: ConditionalFormatting822628
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '195512'
