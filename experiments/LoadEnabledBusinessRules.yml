@@ -2,4 +2,8 @@
 type: experiment
 name: load enabled business rules
 flag: LoadEnabledBusinessRules
+conditions:
+  - group:
+      name: Einat
+    value: true
 value: false
