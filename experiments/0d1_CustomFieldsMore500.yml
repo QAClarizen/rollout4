@@ -1,0 +1,9 @@
+# This file was edited by Cloudbees Feature Flags
+type: experiment
+name: 0d1_ Custom Fields More500
+flag: 0d1_CustomFieldsMore500
+conditions:
+  - group:
+      name: 0d1_Lohika Test Anton 23
+    value: true
+value: false

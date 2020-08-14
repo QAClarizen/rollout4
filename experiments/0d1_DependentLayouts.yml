@@ -1,0 +1,9 @@
+# This file was edited by Cloudbees Feature Flags
+type: experiment
+name: 0d1_ Dependent Layouts
+flag: 0d1_DependentLayouts
+conditions:
+  - group:
+      name: 0d1_Einat
+    value: true
+value: true

@@ -1,0 +1,7 @@
+type: target-group
+name: FrozenColumns_WorkPlan7307251
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '97112'

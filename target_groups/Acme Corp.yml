@@ -1,0 +1,7 @@
+type: target-group
+name: Acme Corp
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '12593'

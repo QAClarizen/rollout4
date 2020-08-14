@@ -1,0 +1,7 @@
+type: target-group
+name: After2ConsecutiveWrongLogins_ShowCaptcha292138
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '808686'

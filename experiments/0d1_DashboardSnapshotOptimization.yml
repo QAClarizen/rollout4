@@ -1,0 +1,9 @@
+# This file was edited by Cloudbees Feature Flags
+type: experiment
+name: 0d1_ Dashboard Snapshot Optimization
+flag: 0d1_DashboardSnapshotOptimization
+conditions:
+  - group:
+      name: 0d1_loadlr
+    value: true
+value: true

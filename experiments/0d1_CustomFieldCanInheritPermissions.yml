@@ -1,0 +1,9 @@
+# This file was edited by Cloudbees Feature Flags
+type: experiment
+name: 0d1_ Custom Field Can Inherit Permissions
+flag: 0d1_CustomFieldCanInheritPermissions
+conditions:
+  - group:
+      name: 0d1_upgradedToBasic
+    value: true
+value: false

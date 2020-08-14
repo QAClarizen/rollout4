@@ -1,0 +1,7 @@
+type: target-group
+name: AutoRemoveLoopDependScenario555005
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '803803'

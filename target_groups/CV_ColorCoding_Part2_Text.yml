@@ -1,0 +1,7 @@
+type: target-group
+name: CV_ColorCoding_Part2_Text
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '787215'

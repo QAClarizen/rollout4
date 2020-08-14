@@ -1,0 +1,7 @@
+type: target-group
+name: BudgetChrome351412
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '808672'

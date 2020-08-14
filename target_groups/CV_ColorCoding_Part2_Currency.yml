@@ -1,0 +1,7 @@
+type: target-group
+name: CV_ColorCoding_Part2_Currency
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '787216'

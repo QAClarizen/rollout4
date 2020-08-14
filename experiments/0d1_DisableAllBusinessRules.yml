@@ -1,0 +1,9 @@
+# This file was edited by Cloudbees Feature Flags
+type: experiment
+name: 0d1_ Disable All Business Rules
+flag: 0d1_DisableAllBusinessRules
+conditions:
+  - group:
+      name: 0d1_Programm  483780
+    value: false
+value: false

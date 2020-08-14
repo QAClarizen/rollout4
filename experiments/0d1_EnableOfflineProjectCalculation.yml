@@ -1,0 +1,5 @@
+# This file was edited by Cloudbees Feature Flags
+type: experiment
+name: 0d1_ Enable Offline Project Calculation
+flag: 0d1_EnableOfflineProjectCalculation
+value: false

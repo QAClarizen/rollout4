@@ -1,0 +1,7 @@
+type: target-group
+name: e35r34t
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '40662'

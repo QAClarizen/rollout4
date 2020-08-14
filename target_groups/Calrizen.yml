@@ -1,0 +1,7 @@
+type: target-group
+name: Calrizen
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '348760'

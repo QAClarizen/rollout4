@@ -1,0 +1,9 @@
+# This file was edited by Cloudbees Feature Flags
+type: experiment
+name: 0d1_ Digital Proofing Type Selector
+flag: 0d1_DigitalProofingTypeSelector
+conditions:
+  - group:
+      name: 0d1_Float Factor  28929
+    value: true
+value: false

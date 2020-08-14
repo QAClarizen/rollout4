@@ -1,0 +1,7 @@
+type: target-group
+name: Vadim QA Cloning
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '811996'

@@ -1,0 +1,7 @@
+type: target-group
+name: InterActTECCAssign770770
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '76405'

@@ -1,0 +1,7 @@
+type: target-group
+name: TanyaCh2  676773
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '676773'

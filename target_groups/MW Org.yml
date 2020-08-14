@@ -1,0 +1,7 @@
+type: target-group
+name: MW Org
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '800493'

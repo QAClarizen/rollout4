@@ -1,0 +1,7 @@
+type: target-group
+name: newfin with BUCP
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '813327'

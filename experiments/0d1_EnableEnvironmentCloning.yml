@@ -1,0 +1,5 @@
+# This file was edited by Cloudbees Feature Flags
+type: experiment
+name: 0d1_ Enable Environment Cloning
+flag: 0d1_EnableEnvironmentCloning
+value: true

@@ -1,0 +1,7 @@
+type: target-group
+name: Test Downgrade  103636
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '103636'

@@ -1,0 +1,7 @@
+type: target-group
+name: clone4
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '769149'

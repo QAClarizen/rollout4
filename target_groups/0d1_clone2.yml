@@ -1,0 +1,7 @@
+type: target-group
+name: 0d1_clone2
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '817003'

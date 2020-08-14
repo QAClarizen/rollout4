@@ -1,0 +1,7 @@
+type: target-group
+name: FieldSet_OnlyDefaultFields794462
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '159575'

@@ -1,0 +1,7 @@
+type: target-group
+name: AttachEmailToWorkItemApps573646
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '808070'

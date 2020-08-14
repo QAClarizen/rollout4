@@ -1,0 +1,7 @@
+type: target-group
+name: Clone Of Clone AABB
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '785872'

@@ -1,0 +1,7 @@
+type: target-group
+name: AddComponentUnderCompletedComponent250698
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '803806'

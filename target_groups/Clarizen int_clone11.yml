@@ -1,0 +1,7 @@
+type: target-group
+name: Clarizen int_clone11
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '769375'

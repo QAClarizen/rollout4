@@ -1,0 +1,7 @@
+type: target-group
+name: testfrozen  Fiscal Year Start 1March
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '208444'

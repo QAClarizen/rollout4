@@ -1,0 +1,9 @@
+# This file was edited by Cloudbees Feature Flags
+type: experiment
+name: 0d1_ Enable CASB Integration
+flag: 0d1_EnableCASBIntegration
+conditions:
+  - group:
+      name: 0d1_SMSC
+    value: true
+value: false

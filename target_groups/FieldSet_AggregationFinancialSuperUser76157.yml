@@ -1,0 +1,7 @@
+type: target-group
+name: FieldSet_AggregationFinancialSuperUser76157
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '159614'

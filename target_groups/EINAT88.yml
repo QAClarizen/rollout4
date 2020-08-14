@@ -1,0 +1,7 @@
+type: target-group
+name: EINAT88
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '302571'

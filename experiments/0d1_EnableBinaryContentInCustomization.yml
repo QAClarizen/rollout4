@@ -1,0 +1,9 @@
+# This file was edited by Cloudbees Feature Flags
+type: experiment
+name: 0d1_ Enable Binary Content In Customization
+flag: 0d1_EnableBinaryContentInCustomization
+conditions:
+  - group:
+      name: 0d1_Like a Version
+    value: true
+value: false

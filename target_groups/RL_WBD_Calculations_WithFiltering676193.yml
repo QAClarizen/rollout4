@@ -1,0 +1,7 @@
+type: target-group
+name: RL_WBD_Calculations_WithFiltering676193
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '321597'

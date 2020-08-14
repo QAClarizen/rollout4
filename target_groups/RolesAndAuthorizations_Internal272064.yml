@@ -1,0 +1,7 @@
+type: target-group
+name: RolesAndAuthorizations_Internal272064
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '159394'
